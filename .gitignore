@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+.env
+dms.xlsx
+gen.info.xlsx
+oms.xlsx
+patients.db
+quality_dms.db
+quality_oms.db
+venv/
